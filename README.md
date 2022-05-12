@@ -32,6 +32,9 @@ yarn or npm install
 # Go into ios directory (MAC only)
 cd ios
 
+# Install cocoapods dependencies
+pod install
+
 # Build the Detox version of the binary:
 detox build -c ios
 
