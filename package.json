@@ -6,7 +6,7 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
-    "test": "jest",
+    "test": "jest src",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -20,12 +20,16 @@
     "@testing-library/jest-native": "4.0.4",
     "@testing-library/react-native": "9.1.0",
     "babel-jest": "^28.1.0",
+    "detox": "^19.6.9",
     "eslint": "^8.15.0",
     "jest": "^28.1.0",
     "metro-react-native-babel-preset": "^0.70.3",
     "react-test-renderer": "17.0.2"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "setupFilesAfterEnv": [
+      "./jest-setup-after-env.js"
+    ]
   }
 }
