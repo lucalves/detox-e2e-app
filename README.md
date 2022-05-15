@@ -15,7 +15,8 @@ This project is the development of a simple E2E workflow with Jest and Detox. Ba
 
 ## How to Install
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) or [Yarn](https://yarnpkg.com/) package manager installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) 
+(which comes with [npm](http://npmjs.com)) or [Yarn](https://yarnpkg.com/) package manager installed on your computer.
 
 From your command line:
 
