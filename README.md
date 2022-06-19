@@ -1,4 +1,4 @@
-# React Native E2E
+# React Native E2E with Detox
 
 ![Version](https://img.shields.io/badge/version-v.1.0.0-red.svg) ![Created On](https://img.shields.io/badge/created%20on-may%202022-red)
 
