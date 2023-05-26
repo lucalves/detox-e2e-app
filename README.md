@@ -46,3 +46,7 @@ detox test -c ios
 # Run the app on iOS (or android)
 yarn ios (yarn android)
 ```
+
+## License
+
+MIT
