@@ -44,7 +44,7 @@ detox build -c ios
 detox test -c ios
 
 # Run the app on iOS (or android)
-yarn ios (or yarn android)
+yarn ios (yarn android)
 ```
 
 ## License
