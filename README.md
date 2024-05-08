@@ -8,7 +8,7 @@ This project is the development of a simple E2E workflow with Jest and Detox. Ba
 
 ## Technologies used:
 
-- Detox
+- [detox](https://github.com/wix/Detox)
 - @testing-library/jest-native
 - @testing-library/react-native
 - react-test-renderer
